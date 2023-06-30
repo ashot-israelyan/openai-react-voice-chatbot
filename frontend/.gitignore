@@ -11,6 +11,8 @@ node_modules
 dist
 dist-ssr
 *.local
+backend/stored_data.json
+myFile.wav
 
 # Editor directories and files
 .vscode/*
